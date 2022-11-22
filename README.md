@@ -5,4 +5,4 @@ Dans le cadre du cours:
 
 Techniques d’exploitation de données (60600)
 
-Rapport du projet de session: Interpr ́etation des modèles (Interpretable AI)
+Rapport du projet de session: Interprétation des modèles (Interpretable AI)
